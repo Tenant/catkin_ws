@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sukie/catkin_ws/src/rcs_msg_wrapper/src/rcs_mdls/CGQ_NOVATELn.hh
+rcs.hh
+/home/sukie/catkin_ws/src/rcs_msg_wrapper/src/rcs_mdls/rcs.hh
+
+/home/sukie/catkin_ws/src/rcs_msg_wrapper/src/te_rcssvr.cc
+stdlib.h
+-
+rcs.hh
+/home/sukie/catkin_ws/src/rcs_msg_wrapper/src/rcs.hh
+CGQ_NOVATELn.hh
+/home/sukie/catkin_ws/src/rcs_msg_wrapper/src/CGQ_NOVATELn.hh
+string
+-
+

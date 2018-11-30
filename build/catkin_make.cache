@@ -1,0 +1,2 @@
+novatel_span_driver/novatel_msgs:novatel_span_driver/novatel_span_driver:rcs_msg_wrapper
+-DCATKIN_DEVEL_PREFIX=/home/sukie/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sukie/catkin_ws/install -G Unix Makefiles

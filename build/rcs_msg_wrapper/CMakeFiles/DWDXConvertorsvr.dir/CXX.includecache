@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sukie/catkin_ws/src/rcs_msg_wrapper/src/DWDXConvertorsvr.cc
+stdlib.h
+-
+rcs.hh
+/home/sukie/catkin_ws/src/rcs_msg_wrapper/src/rcs.hh
+DWDXConvertorn.hh
+/home/sukie/catkin_ws/src/rcs_msg_wrapper/src/DWDXConvertorn.hh
+P_DWDXGPS_INFOn.hh
+/home/sukie/catkin_ws/src/rcs_msg_wrapper/src/P_DWDXGPS_INFOn.hh
+string
+-
+
+/home/sukie/catkin_ws/src/rcs_msg_wrapper/src/rcs_mdls/DWDXConvertorn.hh
+rcs.hh
+/home/sukie/catkin_ws/src/rcs_msg_wrapper/src/rcs_mdls/rcs.hh
+
+/home/sukie/catkin_ws/src/rcs_msg_wrapper/src/rcs_mdls/P_DWDXGPS_INFOn.hh
+rcs.hh
+/home/sukie/catkin_ws/src/rcs_msg_wrapper/src/rcs_mdls/rcs.hh
+

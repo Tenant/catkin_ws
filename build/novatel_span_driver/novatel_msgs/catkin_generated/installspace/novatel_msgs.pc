@@ -1,0 +1,8 @@
+prefix=/home/sukie/catkin_ws/install
+
+Name: novatel_msgs
+Description: Description of novatel_msgs
+Version: 1.0.0
+Cflags: -I/home/sukie/catkin_ws/install/include
+Libs: -L/home/sukie/catkin_ws/install/lib 
+Requires: geometry_msgs message_runtime nav_msgs std_msgs
